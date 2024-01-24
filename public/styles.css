@@ -1,0 +1,17 @@
+body {
+  font-family: verdana;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form > * {
+  margin: 0.5rem;
+}
+
+img {
+  height: 20%;
+  width: 20%;
+}
